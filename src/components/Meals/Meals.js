@@ -1,3 +1,4 @@
+import Modal from "../UI/Modal";
 import AvailableMeals from "./AvailableMeals";
 import MealsSummary from "./MealsSummary";
 
